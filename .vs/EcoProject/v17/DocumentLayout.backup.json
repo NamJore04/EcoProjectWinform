@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|d:\\dai_hoc_nam_3\\hk1\\cnpm\\project\\main_eco\\ecoproject\\ecoproject\\user_control\\uc_lab_analysis_management1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|solutionrelative:user_control\\uc_lab_analysis_management1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\user_control\\uc_lab_analysis_management1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|solutionrelative:user_control\\uc_lab_analysis_management1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\nhap_lieu\\chi_tieu_khong_khi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|solutionrelative:nhap_lieu\\chi_tieu_khong_khi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuKhiThai.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuNuocMat.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuKK.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\nhap_lieu\\chi_tieu_nuoc_mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|solutionrelative:nhap_lieu\\chi_tieu_nuoc_mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\nhap_lieu\\phan_tich_nuoc_mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|solutionrelative:nhap_lieu\\phan_tich_nuoc_mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\nhap_lieu\\hien_truong_nuoc_mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F616479-4678-469F-A39C-633819CE6C01}|EcoProject.csproj|solutionrelative:nhap_lieu\\hien_truong_nuoc_mat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uc_lab_analysis_management1.cs [Design]",
+              "DocumentMoniker": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\user_control\\uc_lab_analysis_management1.cs",
+              "RelativeDocumentMoniker": "user_control\\uc_lab_analysis_management1.cs",
+              "ToolTip": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\user_control\\uc_lab_analysis_management1.cs [Design]",
+              "RelativeToolTip": "user_control\\uc_lab_analysis_management1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:57:16.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.ChiTieuNuocMat.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuNuocMat.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuNuocMat.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-15T15:04:16.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.ChiTieuKK.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuKK.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuKK.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-15T15:04:07.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.ChiTieuKhiThai.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuKhiThai.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__DAI_HOC_NAM_3_HK1_CNPM_PROJECT_MAIN_ECO_ECOPROJECT_ECOPROJECT_DATABASE_QUANTRACMOITRUONG.MDF/True/SqlTable/dbo.ChiTieuKhiThai.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-15T15:04:00.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chi_tieu_khong_khi.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\chi_tieu_khong_khi.cs",
+              "RelativeDocumentMoniker": "Nhap_lieu\\chi_tieu_khong_khi.cs",
+              "ToolTip": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\chi_tieu_khong_khi.cs",
+              "RelativeToolTip": "Nhap_lieu\\chi_tieu_khong_khi.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:55:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uc_lab_analysis_management1.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\user_control\\uc_lab_analysis_management1.cs",
+              "RelativeDocumentMoniker": "user_control\\uc_lab_analysis_management1.cs",
+              "ToolTip": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\user_control\\uc_lab_analysis_management1.cs",
+              "RelativeToolTip": "user_control\\uc_lab_analysis_management1.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAUwNMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:54:27.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "phan_tich_nuoc_mat.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\phan_tich_nuoc_mat.cs",
+              "RelativeDocumentMoniker": "Nhap_lieu\\phan_tich_nuoc_mat.cs",
+              "ToolTip": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\phan_tich_nuoc_mat.cs",
+              "RelativeToolTip": "Nhap_lieu\\phan_tich_nuoc_mat.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAtwEwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:52:28.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hien_truong_nuoc_mat.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\hien_truong_nuoc_mat.cs",
+              "RelativeDocumentMoniker": "Nhap_lieu\\hien_truong_nuoc_mat.cs",
+              "ToolTip": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\hien_truong_nuoc_mat.cs",
+              "RelativeToolTip": "Nhap_lieu\\hien_truong_nuoc_mat.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:52:25.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chi_tieu_nuoc_mat.cs",
+              "DocumentMoniker": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\chi_tieu_nuoc_mat.cs",
+              "RelativeDocumentMoniker": "Nhap_lieu\\chi_tieu_nuoc_mat.cs",
+              "ToolTip": "D:\\Dai_Hoc_Nam_3\\HK1\\CNPM\\project\\Main_Eco\\EcoProject\\EcoProject\\Nhap_lieu\\chi_tieu_nuoc_mat.cs",
+              "RelativeToolTip": "Nhap_lieu\\chi_tieu_nuoc_mat.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:52:19.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
